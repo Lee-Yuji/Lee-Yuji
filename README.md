@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=250&color=E5D785&section=header&text=Yuji%20Lee&fontColor=E3CE59&fontSize=70&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=E5D785&section=header&reversal=true&text=Yuji+Lee&textBg=false&fontColor=E3CE59&fontSize=70&fontAlign=27&fontAlignY=50&rotate=0&stroke=E3CE59&strokeWidth=0&descSize=20&descAlign=48&descAlignY=65)
