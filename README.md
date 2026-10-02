@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=E5D785&section=header&reversal=true&text=Yuji+Lee&textBg=false&fontColor=E3CE59&fontSize=70&fontAlign=30&fontAlignY=50&rotate=0&stroke=E3CE59&strokeWidth=0&descSize=20&descAlign=48&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=FFEA63&section=header&reversal=false&text=YuJi+Lee&textBg=false&fontColor=FFDD00&fontSize=70&fontAlign=29&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
